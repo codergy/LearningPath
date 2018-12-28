@@ -1,7 +1,9 @@
 # LearningPath
-Stuff I want to learn in 2019
+Stuff I want to learn in 2019: C#, SQL, Git
 
 ## Watch:
+
+### C#
 
 #### Beginner:
 
@@ -20,5 +22,7 @@ Stuff I want to learn in 2019
 - [ ] C# Advanced Full Course | Mosh  [link](https://www.youtube.com/watch?v=uBan98h1KE0)
 
 ## Read:
+
+### C#
 
 - [ ] Intermediate C# Tutorials [link](http://rbwhitaker.wikidot.com/c-sharp-intermediate-tutorials)
