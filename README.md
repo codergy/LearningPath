@@ -1,5 +1,5 @@
 # LearningPath
-Stuff I want to learn in 2019: C#, SQL, Git
+Stuff I want to learn in 2019: C#, SQL, Git, and more
 
 ## Watch:
 
@@ -23,21 +23,24 @@ Stuff I want to learn in 2019: C#, SQL, Git
 
 - [ ] C# Advanced Full Course | Mosh | [link](https://www.youtube.com/watch?v=uBan98h1KE0)
 
+### SQL
+
+- [ ] Mike Dane: SQL - Full course for beginners | [link](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+- [ ] Colt Steele: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert | [link](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/)
+
 ## Read:
 
 ### C#
 
 - [ ] Intermediate C# Tutorials | [link](http://rbwhitaker.wikidot.com/c-sharp-intermediate-tutorials)
 
-
-## Stuff to learn:
+## More stuff to learn:
 
 In order of importance, links to be added
 
+### VBA: Classes, WiseOwl tutorial for refreshment
 ### C#: WPF, WCF, LINQ, XAMARIN
-### ASP.NET
-### ADO.NET
-### SQL
 ### Version control system: Git
-### TDD
-
+### Testing, unit testing, TDD
+### OOP in general, deisgn patterns
+### PHP
