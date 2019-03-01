@@ -28,6 +28,16 @@ Stuff I want to learn in 2019: C#, SQL, Git, and more
 - [ ] Mike Dane: SQL - Full course for beginners | [link](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - [ ] Colt Steele: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert | [link](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/)
 
+### Git and Github
+
+- [ ] freeCodeCamp.org: Git & GitHub (15 min) | [link](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+- [ ] IAmTimCorey: Git Tutorial for Beginners: A Quick Start Guide (90 min) | [link](https://www.youtube.com/watch?v=ugN-IYV1NTM)
+- [ ] thenewboston: Git Tutorial (180 min) | [link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+- [ ] The Coding Train: Git and GitHub for Poets (120 min) | [link](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [ ] Derek Banas: Git Video Tutorial (25 min) | [link](https://www.youtube.com/watch?v=r63f51ce84A)
+- [ ] freeCodeCamp.org: GitHub Basics Tutorial - How to Use GitHub (30 min) | [link](https://www.youtube.com/watch?v=x0EYpi38Yp4)
+
+
 ## Read:
 
 ### C#
@@ -38,9 +48,8 @@ Stuff I want to learn in 2019: C#, SQL, Git, and more
 
 In order of importance, links to be added
 
-### VBA: Classes, WiseOwl tutorial for refreshment
+### VBA: Classe
 ### C#: WPF, WCF, LINQ, XAMARIN
-### Version control system: Git
 ### Testing, unit testing, TDD
-### OOP in general, deisgn patterns
+### OOP in general, design patterns
 ### PHP
