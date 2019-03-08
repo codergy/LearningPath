@@ -23,10 +23,15 @@ Stuff I want to learn in 2019: C#, SQL, Git, and more
 
 - [ ] C# Advanced Full Course | Mosh | [link](https://www.youtube.com/watch?v=uBan98h1KE0)
 
-### SQL
+### Databases
+
+#### SQL
 
 - [ ] Mike Dane: SQL - Full course for beginners | [link](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - [ ] Colt Steele: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert | [link](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/)
+
+#### General
+- [ ] Database Design Course - Learn how to design and plan a database for beginners | [link](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 
 ### PHP
 
