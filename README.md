@@ -28,6 +28,11 @@ Stuff I want to learn in 2019: C#, SQL, Git, and more
 - [ ] Mike Dane: SQL - Full course for beginners | [link](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - [ ] Colt Steele: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert | [link](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/)
 
+### PHP
+
+- [ ] Mike Dane: PHP Programming Language - Full Course | [link](https://www.youtube.com/watch?v=OK_JCtrrv-c)
+- [ ] mmtuts: PHP Tutorials (12.5 hours) | [link](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-)
+
 ### Git and Github
 
 - [ ] freeCodeCamp.org: Git & GitHub (15 min) | [link](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
@@ -48,8 +53,9 @@ Stuff I want to learn in 2019: C#, SQL, Git, and more
 
 In order of importance, links to be added
 
-### VBA: Classe
+### PHP
+### VBA: Classes
 ### C#: WPF, WCF, LINQ, XAMARIN
 ### Testing, unit testing, TDD
 ### OOP in general, design patterns
-### PHP
+
