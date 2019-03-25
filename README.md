@@ -15,6 +15,8 @@ Stuff I want to learn in 2019: C#, SQL, Git, and more
 
 - [ ] C# Tutorial for Beginners: Learn C# from Scratch | Mosh | [link](https://www.youtube.com/watch?v=gfkTfcpWqAY)
 
+- [ ] Tim Corey : Create a C# Application from Start to Finish - Complete Course (24 hours)  | [link](https://www.youtube.com/watch?v=wfWxdh-_k_4)
+
 #### Intermediate:
 
 - [ ] C# Intermediate Full Course | Mosh | [link](https://www.youtube.com/watch?v=M3lqkuZQBcM)
@@ -28,10 +30,11 @@ Stuff I want to learn in 2019: C#, SQL, Git, and more
 #### SQL
 
 - [ ] Mike Dane: SQL - Full course for beginners | [link](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-- [ ] Colt Steele: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert | [link](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/)
+- [ ] Colt Steele: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (21 hours) | [link](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/)
+- [ ] SQL - Intro to Computer Science - Harvard's CS50 (2018) (90 min) | [link](https://www.youtube.com/watch?v=TplT4qjz1RQ)
 
 #### General
-- [ ] Database Design Course - Learn how to design and plan a database for beginners | [link](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+- [ ] Database Design Course - Learn how to design and plan a database for beginners (8 hours) | [link](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 
 ### PHP
 
