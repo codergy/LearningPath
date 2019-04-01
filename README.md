@@ -1,5 +1,6 @@
 # LearningPath
 Stuff I want to learn in 2019 (in order of importance):
+
 SQL (MySQL, database design, MSSQL, PostgreSQL), Power Pivot/Query/BI, improving VBA, C#, Git, NodeJS, PHP
 
 ## Watch:
@@ -12,7 +13,7 @@ SQL (MySQL, database design, MSSQL, PostgreSQL), Power Pivot/Query/BI, improving
 
 #### MySQL
 
-- [x] Colt Steele: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (21 hours) | [link](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/)
+- [x] UDEMY | Colt Steele: The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (21 hours) | [link](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/)
 - [ ] Caleb Curry: MySQL 2017 (170 min) | [link](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKn20DFbNeLAAbw4ZMTlZPH)
 
 #### MSSQL
@@ -27,10 +28,10 @@ SQL (MySQL, database design, MSSQL, PostgreSQL), Power Pivot/Query/BI, improving
 
 #### Power Pivot, Query
 
-- [ ] Intro to Power Query, Power Pivot & DAX (7 hours) | [link](https://www.udemy.com/microsoft-excel-power-query-power-pivot-dax/learn/v4/)
+- [ ] UDEMY | Intro to Power Query, Power Pivot & DAX (7 hours) | [link](https://www.udemy.com/microsoft-excel-power-query-power-pivot-dax/learn/v4/)
 
 #### Power BI
-- [ ] Microsoft Power BI - Up & Running With Power BI Desktop (10 hours) | [link](https://www.udemy.com/microsoft-power-bi-up-running-with-power-bi-desktop/learn/v4/)
+- [ ] UDEMY | Microsoft Power BI - Up & Running With Power BI Desktop (10 hours) | [link](https://www.udemy.com/microsoft-power-bi-up-running-with-power-bi-desktop/learn/v4/)
 
 ### C#
 
