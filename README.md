@@ -1,7 +1,7 @@
 # LearningPath
 Stuff I want to learn in 2019 (in order of importance):
 
-SQL (MySQL, database design, MSSQL, PostgreSQL), Power Pivot/Query/BI, improving VBA, C#, Git, NodeJS, PHP
+SQL (MySQL, database design, MSSQL), Power Pivot/Query/BI, improving VBA, C#(?), Git, NodeJS, PHP(?)
 
 ## Watch:
 
@@ -29,9 +29,14 @@ SQL (MySQL, database design, MSSQL, PostgreSQL), Power Pivot/Query/BI, improving
 #### Power Pivot, Query
 
 - [ ] UDEMY | Intro to Power Query, Power Pivot & DAX (7 hours) | [link](https://www.udemy.com/microsoft-excel-power-query-power-pivot-dax/learn/v4/)
+- [ ] Introduction to Power Query & Power Pivot Data Model in Excel 2016 (50 min) | [link](https://www.youtube.com/watch?v=ohGFPF12Qwc)
+- [ ] Interactive Excel Dashboards with Power Query and Power Pivot (50 min) | [link](https://www.youtube.com/watch?v=TK0CJBaqvnY)
+- [ ] 25 Amazing Power Query Tips and Tricks (30 min) | [link](https://www.youtube.com/watch?v=ZLlvfCDaaxI)
 
 #### Power BI
 - [ ] UDEMY | Microsoft Power BI - Up & Running With Power BI Desktop (10 hours) | [link](https://www.udemy.com/microsoft-power-bi-up-running-with-power-bi-desktop/learn/v4/)
+- [ ] How to build Power BI Dashboards (50 min) | [link](https://www.youtube.com/watch?v=BsXliHbOFDM)
+- [ ] New to Power BI? Start here (hours) | [link](https://www.youtube.com/playlist?list=PLDz00l_jz6zxaIbpYQ-ySI3KgPFiG_KF1)
 
 ### C#
 
